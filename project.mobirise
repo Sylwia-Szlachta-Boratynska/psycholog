@@ -24,20 +24,20 @@
         "display7Size": "1.4",
         "display4Font": "Jost",
         "display4Size": 1.1,
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isGhostButtonBorder": false,
         "underlinedLinks": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#fcfcf5",
         "#3d3d3d",
         "#c9c9c9",
         "#49795c",
         "#527c63",
         "#2b774a",
-        "#d4ded8",
-        "#b6cabe"
+        "#d4ded8"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -54,7 +54,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "xeutqi6bdw",
+    "mbrsiteDomain": "jqd6x6gxv0",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -63,7 +63,20 @@
     "gdpr": false,
     "google-analytics": "<a id=\"zl-url\" class=\"zl-url\" href=\"https://www.znanylekarz.pl/sylwia-szlachta-boratynska/psycholog-psychoterapeuta/sosnowiec\" rel=\"nofollow\" data-zlw-doctor=\"sylwia-szlachta-boratynska\" data-zlw-type=\"button_calendar_floating_medium\" data-zlw-opinion=\"false\" data-zlw-hide-branding=\"true\" data-zlw-saas-only=\"false\">Sylwia Szlachta - Boratyńska - ZnanyLekarz.pl</a><script>!function($_x,_s,id){var js,fjs=$_x.getElementsByTagName(_s)[0];if(!$_x.getElementById(id)){js = $_x.createElement(_s);js.id = id;js.src = \"//platform.docplanner.com/js/widget.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"zl-widget-s\");</script>",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "cookiesAlert": false
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#ffffff",
+      "colorButton": "#06110a",
+      "rejectColor": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacityOverlay": "0",
+      "bgOpacity": "84",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "GOT IT",
+      "rejectText": "REJECT"
+    }
   },
   "pages": {
     "index.html": {
@@ -75,7 +88,7 @@
         "footer_custom": "",
         "html_before": "",
         "socialSharingUrl": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/foto2w-1220x1220.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/sylwia-530x530.jpg"
       },
       "components": [
         {
