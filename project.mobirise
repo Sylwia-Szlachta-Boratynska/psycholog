@@ -31,13 +31,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#d4ded8",
+        "#06110a",
         "#fcfcf5",
         "#3d3d3d",
         "#c9c9c9",
         "#49795c",
-        "#527c63",
-        "#2b774a",
-        "#d4ded8"
+        "#527c63"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -49,12 +49,12 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 48,
+    "uniqCompNum": 49,
     "versionPublish": "5.9.0",
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "jqd6x6gxv0",
+    "mbrsiteDomain": "nurcenmpjr",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -65,16 +65,16 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "cookiesAlert": {
       "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#ffffff",
-      "colorButton": "#06110a",
+      "colorText": "#232323",
+      "colorBg": "#fcfcf5",
+      "colorButton": "#49795c",
       "rejectColor": "#ffffff",
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacityOverlay": "0",
-      "bgOpacity": "84",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "GOT IT",
+      "bgOpacity": "100",
+      "text": "Witaj, ta strona korzysta z ciasteczek. Dalsze korzystanie ze strony oznacza, że się zgadzasz na ich użycie.",
+      "textButton": "Zgadzam się",
       "rejectText": "REJECT"
     }
   },
